@@ -1,0 +1,22 @@
+add 10 data
+add 9 longer data
+add 12 no data from here forward
+add 8
+add 2
+add 11
+add 5
+add 1
+add 3
+add 7
+add 18
+add 100
+delete 100
+search 9
+min
+max
+median
+successor
+predecessor
+preorder
+inorder
+postorder
