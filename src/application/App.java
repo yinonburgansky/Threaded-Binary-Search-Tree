@@ -18,7 +18,7 @@ public class App extends Application {
 			controller.setStage(primaryStage);
 			Scene scene = new Scene(root);
 			primaryStage.setScene(scene);
-			primaryStage.setTitle("Thearded Binary Search Tree");
+			primaryStage.setTitle("Threaded Binary Search Tree");
 			primaryStage.show();
 		} catch(Exception e) {
 			e.printStackTrace();
